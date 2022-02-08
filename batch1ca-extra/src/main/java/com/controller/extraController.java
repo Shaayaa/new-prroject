@@ -12,7 +12,7 @@ public class extraController {
 	
 	@GetMapping("displaySum")
 	String displayFactPage(){
-		
+		//
 		return "Ex";
 		
 	}
